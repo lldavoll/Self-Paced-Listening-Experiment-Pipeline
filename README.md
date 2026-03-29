@@ -154,7 +154,7 @@ Main dependencies:
 - PsychoPy  
 - pandas  
 - numpy
-- 
+  
 ## Author
 Davo Acevedo-Cardona
 MS in Human Language Technology
