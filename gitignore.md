@@ -1,30 +1,19 @@
 # Python
 __pycache__/
 *.pyc
-*.pyo
 
-# Jupyter
-.ipynb_checkpoints/
-
-# R
-.Rhistory
-.RData
-.Rproj.user/
-
-# OS files
-.DS_Store
-Thumbs.db
-
-# PsychoPy / generated outputs
+# PsychoPy outputs
 *.log
 *.psydat
 *.pickle
 
-# Data outputs
+# Data (keep structure, not files)
 data/raw/*
 data/cleaned/*
 
-# Keep folder structure
-!data/raw/.gitkeep
-!data/cleaned/.gitkeep
-!data/sample/.gitkeep
+# OS
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints/
